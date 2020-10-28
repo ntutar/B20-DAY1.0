@@ -1,1 +1,7 @@
-This is my 
+This is day1
+
+we created
+
+we added one file inside called file1.txt
+Git automatically detected the changes
+we commited
