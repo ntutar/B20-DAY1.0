@@ -1,7 +1,9 @@
 This is day1
 
-we created
+we created a git repository on desktop called B20
 
 we added one file inside called file1.txt
 Git automatically detected the changes
-we commited
+we commited this changes into local repository
+
+I changed the file
